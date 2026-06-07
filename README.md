@@ -21,4 +21,4 @@ to explore three alternative futures:
 2. AI Acceleration Boom
 3. Fragmented Adoption
 
-Users can interact with charts, policy simulations, and decision trees to understand how capability improvements interact with regulation, labour markets, and industry structure.
+Users can interact with charts and decision trees to understand how capability improvements interact with regulation, labour markets, and industry structure.
